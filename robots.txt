@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b10178043-web.github.io/luxery-dm/sitemap.xml
